@@ -24,7 +24,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 5. `ScheduledDay`: The day someone called or registered the appointment, this is before appointment of course.
 6. `Age`: How old is the patient.
 7. `Neighbourhood`: Where the appointment takes place.
-8. `Scholarship`: True of False. Observation, this is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
+8. `Scholarship`: True of False. 
 9. `Hipertension`: True or False.
 10. `Diabetes`: True or False.
 11. `Alcoholism`: True or False.
